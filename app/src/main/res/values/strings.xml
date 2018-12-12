@@ -1,0 +1,10 @@
+<resources>
+    <string name="interneterrormessages">No Internet Connection Found. Please try again later.</string>
+    <string name="app_name">News Tube</string>
+    <string name="custom_image">Custom Image</string>
+    <string name="news_heading">News Heading</string>
+    <string name="_anonymous">Anonymous</string>
+    <string name="date">22 Aug,2018</string>
+    <string name="section">Section</string>
+    <string name="no_internet_connection_please_connect_to_internet">No Internet Connection. Please Connect to the Internet.</string>
+</resources>
